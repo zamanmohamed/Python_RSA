@@ -15,7 +15,6 @@ in the project,
 During the assignment period I couldn’t find the solution for these problems. they are
 •	I couldn’t decrypt in flask backend what I had encrypted in react front end 
 •	But I could decrypt backend what I had encrypted in backend itself (but there is no problem in vise versa)
-•	So, I couldn't move furthermore
 
 
 --------SQL COMMAND------------ 
